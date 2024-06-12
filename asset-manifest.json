@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webkids/static/css/main.cffb581f.css",
+    "main.js": "/webkids/static/js/main.0bc1d91e.js",
+    "static/js/488.fdfc3873.chunk.js": "/webkids/static/js/488.fdfc3873.chunk.js",
+    "index.html": "/webkids/index.html",
+    "main.cffb581f.css.map": "/webkids/static/css/main.cffb581f.css.map",
+    "main.0bc1d91e.js.map": "/webkids/static/js/main.0bc1d91e.js.map",
+    "488.fdfc3873.chunk.js.map": "/webkids/static/js/488.fdfc3873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cffb581f.css",
+    "static/js/main.0bc1d91e.js"
+  ]
+}
