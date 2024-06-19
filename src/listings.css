@@ -1,0 +1,46 @@
+.listy {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+h2 {
+    color: black;
+    text-align: center;
+
+}
+
+.job-listing {
+    background-color: #f9f9f9; 
+    border: 1px solid #ddd; 
+    border-radius: 8px; 
+    padding: 20px; 
+    margin: 5px 0; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .job-listing h2 {
+    font-size: 24px; 
+    color: #333; 
+    margin-bottom: 20px; 
+    margin-top: 5px;
+    text-align: center; 
+  }
+  
+  .job-listing h3 {
+    font-size: 18px;
+    color: #555; 
+    margin: 10px 17px; 
+  }
+  
+  .job-listing .section {
+    padding: 10px; 
+
+  }
+  
+  .job-listing .section:nth-child(even) {
+    background-color: #cecdcd; 
+  }
+  
